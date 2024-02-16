@@ -160,7 +160,7 @@ input{
   
 @media(max-width:1200px){
     .section{
-        background-image: none;
+        background-image: url("./handrawn-barbecue-elements.jpg");
     }
     .input-container{
         margin: 0;
