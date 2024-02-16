@@ -1,5 +1,5 @@
-const app_id='api_id'
-const app_key='api_key'
+const app_id='e706caaa'
+const app_key='ca92039d134875ce5cf7aedac430680b'
 const loaderContainer=document.querySelector(".loader-container")
 const input =document.querySelector("input")
 const button =document.querySelector("#button")
